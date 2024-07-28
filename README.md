@@ -35,6 +35,7 @@ Sindicato: 5%
 Funcionalidades:
 
 Cálculo do Salário Bruto: O programa calcula o salário bruto multiplicando o valor ganho por hora pelo número de horas trabalhadas.
+
 Descontos: Calcula e exibe os valores descontados para IR, INSS e Sindicato.
 
 Salário Líquido: Mostra o salário líquido após a aplicação dos descontos.
@@ -44,6 +45,7 @@ Recalcular ou Sair: Permite ao usuário calcular o salário novamente ou sair do
 Interação:
 
 Digite o valor ganho por hora quando solicitado.
+
 Digite o número de horas trabalhadas durante o mês.
 
 O programa exibirá o salário bruto, descontos e salário líquido.
