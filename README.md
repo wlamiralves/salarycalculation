@@ -41,7 +41,6 @@ Salário Líquido: Mostra o salário líquido após a aplicação dos descontos.
 Recalcular ou Sair: Permite ao usuário calcular o salário novamente ou sair do programa com uma mensagem de agradecimento.
 
 Interação:
-
 Digite o valor ganho por hora quando solicitado.
 Digite o número de horas trabalhadas durante o mês.
 
