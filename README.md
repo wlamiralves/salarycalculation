@@ -38,6 +38,7 @@ Cálculo do Salário Bruto: O programa calcula o salário bruto multiplicando o 
 Descontos: Calcula e exibe os valores descontados para IR, INSS e Sindicato.
 
 Salário Líquido: Mostra o salário líquido após a aplicação dos descontos.
+
 Recalcular ou Sair: Permite ao usuário calcular o salário novamente ou sair do programa com uma mensagem de agradecimento.
 
 Interação:
