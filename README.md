@@ -46,5 +46,6 @@ Digite o valor ganho por hora quando solicitado.
 Digite o número de horas trabalhadas durante o mês.
 
 O programa exibirá o salário bruto, descontos e salário líquido.
+
 Escolha se deseja calcular novamente ou sair do programa.
 
