@@ -24,7 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Calculadora de Salário é um programa em C++ que permite calcular o salário líquido de um trabalhador com base no valor pago por hora e nas horas trabalhadas durante o mês. O programa leva em consideração os seguintes descontos obrigatórios:
+O projeto Calculadora de Salário é um programa em C++ que permite calcular o salário líquido de um trabalhador com base no valor pago por hora e nas horas trabalhadas durante o mês. 
+
+O programa leva em consideração os seguintes descontos obrigatórios:
 
 Imposto de Renda (IR): 11%
 Instituto Nacional do Seguro Social (INSS): 8%
@@ -34,6 +36,7 @@ Funcionalidades:
 
 Cálculo do Salário Bruto: O programa calcula o salário bruto multiplicando o valor ganho por hora pelo número de horas trabalhadas.
 Descontos: Calcula e exibe os valores descontados para IR, INSS e Sindicato.
+
 Salário Líquido: Mostra o salário líquido após a aplicação dos descontos.
 Recalcular ou Sair: Permite ao usuário calcular o salário novamente ou sair do programa com uma mensagem de agradecimento.
 
@@ -41,6 +44,7 @@ Interação:
 
 Digite o valor ganho por hora quando solicitado.
 Digite o número de horas trabalhadas durante o mês.
+
 O programa exibirá o salário bruto, descontos e salário líquido.
 Escolha se deseja calcular novamente ou sair do programa.
 
